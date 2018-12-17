@@ -1,0 +1,23 @@
+{
+  "products" :
+    [{"id":1,"name":"Human Resources","category":"Fuscia"},
+    {"id":2,"name":"Human Resources","category":"Pink"},
+    {"id":3,"name":"Services","category":"Mauv"},
+    {"id":4,"name":"Research and Development","category":"Yellow"},
+    {"id":5,"name":"Accounting","category":"Yellow"},
+    {"id":6,"name":"Business Development","category":"Violet"},
+    {"id":7,"name":"Sales","category":"Orange"},
+    {"id":8,"name":"Training","category":"Puce"},
+    {"id":9,"name":"Training","category":"Violet"},
+    {"id":10,"name":"Training","category":"Maroon"},
+    {"id":11,"name":"Support","category":"Khaki"},
+    {"id":12,"name":"Services","category":"Crimson"},
+    {"id":13,"name":"Business Development","category":"Aquamarine"},
+    {"id":14,"name":"Legal","category":"Turquoise"},
+    {"id":15,"name":"Services","category":"Orange"},
+    {"id":16,"name":"Sales","category":"Aquamarine"},
+    {"id":17,"name":"Accounting","category":"Pink"},
+    {"id":18,"name":"Training","category":"Turquoise"},
+    {"id":19,"name":"Research and Development","category":"Purple"},
+    {"id":20,"name":"Sales","category":"Green"}]
+}
